@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice (tasks).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/Basic1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Int-to-java/Basic1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/Basic2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Int-to-java/Basic2/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +26,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xSU6KInrLGT4m7KLIRRDKs49XH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic2.Main" />
       <module name="Int-to-java" />
@@ -44,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic1.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic4.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic1.*" />
+          <option name="PATTERN" value="Basic4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +69,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic1.main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic5.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic1.*" />
+          <option name="PATTERN" value="Basic5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic6.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic7.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,9 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -99,5 +139,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
