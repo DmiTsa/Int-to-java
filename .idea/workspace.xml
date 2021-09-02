@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/p12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/p13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/p14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/p15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/p16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/p17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/p18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/p19/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p10/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p11/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/p9/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/p13/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +44,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.p1.Main" />
+      <option name="MAIN_CLASS_NAME" value="basic.p17.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.p1.*" />
+          <option name="PATTERN" value="basic.p17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,11 +59,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.p12.Main" />
+      <option name="MAIN_CLASS_NAME" value="basic.p18.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.p12.*" />
+          <option name="PATTERN" value="basic.p18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.p13.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.p14.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.p13.*" />
+          <option name="PATTERN" value="basic.p14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic7.Main" />
+      <option name="MAIN_CLASS_NAME" value="basic.p15.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic7.*" />
+          <option name="PATTERN" value="basic.p15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p2.Main" />
+      <option name="MAIN_CLASS_NAME" value="basic.p16.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p2.*" />
+          <option name="PATTERN" value="basic.p16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>

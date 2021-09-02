@@ -17,10 +17,10 @@ public class Main {
         for (int i = a; i <= b; i += h) {
             if (i > 2) {
                 int y = i;
-                System.out.print(y +" ");
+                System.out.print(y + " ");
             } else {
                 int y = -1 * i;
-                System.out.print(y +" ");
+                System.out.print(y + " ");
             }
 
         }
