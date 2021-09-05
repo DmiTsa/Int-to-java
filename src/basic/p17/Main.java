@@ -5,11 +5,12 @@ package basic.p17;
  */
 public class Main {
     public static void main(String[] args) {
-//выводим кодировку до 1400 симв
-        int n = 1400;
-        System.out.println("Символ| Код");
-        for (int i = 1; i <= n; i++) {
-            System.out.println((char) i + " | " + i);
+//выводим русских символов (коды UTF от 1040 - 1103)
+        char n1 = 1040;
+        char n2 = 1103;
+        System.out.println("Символ\t|  Код");
+        for (char i = n1; i <= n2; i++) {
+            System.out.println(i + "\t\t| " + (int) i);
         }
     }
 }

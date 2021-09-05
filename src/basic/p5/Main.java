@@ -7,11 +7,11 @@ package basic.p5;
  */
 public class Main {
     public static void main(String[] args) {
-        int T = 24754;
+        int t = 24754;
         int h, m, s;
-        h = T / 3600;
-        m = (T - h * 3600) / 60;
-        s = T - h * 3600 - m * 60;
+        h = t / 3600;
+        m = (t - h * 3600) / 60;
+        s = t - h * 3600 - m * 60;
         String sh = "0" + h, sm = "0" + m, ss = "0" + s;
         System.out.print(sh.substring(sh.length() - 2) + "ч ");
         System.out.print(sm.substring(sm.length() - 2) + "мин ");

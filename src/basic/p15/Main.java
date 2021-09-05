@@ -9,10 +9,10 @@ import java.math.BigInteger;
  */
 public class Main {
     public static void main(String[] args) {
-        BigInteger prod = new BigInteger("1");
+        BigInteger ml = new BigInteger("1");
         int i;
         for (i = 1; i <= 200; i++)
-            prod = prod.multiply(BigInteger.valueOf(i*i));
-        System.out.println(prod);
+            ml = ml.multiply(BigInteger.valueOf(i*i));
+        System.out.println(ml);
     }
 }

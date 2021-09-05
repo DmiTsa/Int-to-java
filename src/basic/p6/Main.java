@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         boolean a;
         int x = 0, y = 1;
-        a = ((x <= 2 & x >= -2) & (y <= 4 & y >= 0)) | ((x <= 4 & x >= -4) & (y <= 0 & y >= -3));
+        a = ((x <= 2 && x >= -2) && (y <= 4 && y >= 0)) || ((x <= 4 && x >= -4) & (y <= 0 && y >= -3));
         System.out.println(a);
     }
 }

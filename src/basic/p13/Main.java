@@ -13,7 +13,7 @@ public class Main {
         int b = sc.nextInt();
         System.out.println("Введите шаг");
         int h = sc.nextInt();
-        //System.out.println(a + b + h);
+
         for (int i = a; i <= b; i += h) {
             if (i > 2) {
                 int y = i;
