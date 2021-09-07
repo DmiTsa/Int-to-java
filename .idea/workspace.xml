@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arr/multidim/p1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/multidim/p2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p10n/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p7n/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/onedim/p9n/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/onedim/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p9n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/onedim/p9n/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +26,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1xSU6KInrLGT4m7KLIRRDKs49XH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,9 +54,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr.onedim.p8.Main" />
       <module name="Int-to-java" />
@@ -74,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.onedim.p3.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.onedim.p9n.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr.onedim.p3.*" />
+          <option name="PATTERN" value="arr.onedim.p9n.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -174,5 +170,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
