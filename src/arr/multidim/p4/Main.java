@@ -5,21 +5,24 @@ package arr.multidim.p4;
  */
 public class Main {
     public static void main(String[] args) {
-        int n = 4;
-        int[][] matrix;
+        int n = 6;
+        int[][] matrix = new int[n][n];
 
-        for (int i = 1; i < n + 1; i++) {
-            for (int j = n; j > 0; j--) {
+        for (int i = 0; i < n; i++) {
+            for (int j = n - 1; j >= 0; j--) {
+                if (i % 2 == 0) {
+                    matrix[i][j] = j + 1;
+                }
                 if (i % 2 != 0) {
-                    matrix[i][j] = j;
+                    matrix[i][j] = n - (j - 1)-1;
                 }
-                if ((i % 2 == 0) && (j == n)){
-                    matrix[i][matrix[0].length - 1] = 1;
-                } else {
-                    matrix[i][j]=
-                }
-
             }
+        }
+        for (int[] arr : matrix) {
+            for (int element : arr) {
+                System.out.print(element + "\t");
+            }
+            System.out.println();
         }
     }
 }
