@@ -14,8 +14,8 @@ public class Main {
                 {9, 8, 7, 2},
                 {6, 4, 5, 8}};
         Scanner sc = new Scanner(System.in);
-        int a, b = 0;
-        int tmp=0;
+        int a, b;
+        int tmp = 0;
         System.out.println("Введите номера столбцов для замены");
         a = sc.nextInt();
         b = sc.nextInt();
@@ -24,10 +24,16 @@ public class Main {
             for (int j = 0; j < matrix[0].length; j++) {
                 if (j == (b - 1)) {
                     tmp = matrix[i][j];
-                    matrix[i][a-1] = matrix[i][j];
-
+                    matrix[i][j] = matrix[i][a - 1];
+                    matrix[i][a - 1] = tmp;
                 }
             }
+        }
+        for (int[] arr : matrix) {
+            for (int elem : arr) {
+                System.out.print(elem + "\t");
+            }
+            System.out.println();
         }
     }
 }
