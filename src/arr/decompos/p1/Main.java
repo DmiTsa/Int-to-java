@@ -12,19 +12,22 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        System.out.println(NOK(a, b));
+        System.out.println("НОК для " + a + " и " + b + " равен " + nok(a, b));
     }
 
-    public static int NOK(int a, int b) {
-        return (a * b) / NOD(a, b);
+    public static int nok (int a, int b) {
+        return (a * b) / nod(a, b);
     }
-    public static int NOD(int a, int b) {
-        if (a > b){
-            a = a % b;
+
+    public static int nod (int a, int b) {
+        while ((a != 0) & (b != 0)) {
+            if (a > b) {
+                a = a % b;
+            } else {
+                b = b % a;
+            }
         }
-
-
-
-        return ;
+        return (a + b);
     }
 }
+
