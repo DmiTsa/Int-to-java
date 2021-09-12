@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="11-09-21sh3">
-      <change afterPath="$PROJECT_DIR$/src/arr/decompos/p2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/decompos/p3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/decompos/p4n/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/multidim/p13/Main.java" afterDir="false" />
+    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="11-09-21sh4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/decompos/Mn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/decompos/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/decompos/p1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p13n/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arr/multidim/p16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim/p16/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim/p8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p8n/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +192,6 @@
       <list>
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
       </list>
@@ -230,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631379230715</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11-09-21sh4">
+      <created>1631447312853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631447312853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +246,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="11-09-21sh2" />
     <MESSAGE value="11-09-21sh3" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-09-21sh3" />
+    <MESSAGE value="11-09-21sh4" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-09-21sh4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
