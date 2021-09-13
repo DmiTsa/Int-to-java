@@ -1,4 +1,4 @@
-package arr.multidim.p16;
+package arr.multidim.p16n;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -39,10 +39,6 @@ public class Main {
 
     public static int[] numOfArray(int[] array) {   //перемещает случайное не нулевое значение массива в начало этого массива на его место записывается 0
         int sum = 0;
-        for (int i = 2; i < array.length; i++) {
-            sum += array[i];
-        }
-
         int randIndex;
         do {
             randIndex = (int) (Math.random() * (array.length));
@@ -50,10 +46,6 @@ public class Main {
         } while (true);
         array[0] = array[randIndex];
         array[randIndex] = 0;
-
-        if (sum == 0) {
-            array[0] = -1;
-        }
         return array;
     }
 }
