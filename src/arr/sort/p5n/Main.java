@@ -13,6 +13,7 @@ ai+1
 не будут перебраны. Примечание. Место помещения очередного элемента в отсортированную часть производить
 с помощью двоичного поиска. Двоичный поиск оформить в виде отдельной функции.
  */
+/*
 public class Main {
     public static void main(String[] args) {
         int[] array = {5, 8, 1, -8, 78, 52, 17, 16, 7, 1};
@@ -25,13 +26,14 @@ public class Main {
         }
     }
 
-    public static int binSort(int[] array, int element) {     //{-8, 1, 5, 8', 52, 78} elem =17  mid=3
+    public static int binSort(int[] array) {     //{-8, 1, 5, 8', 52, 78} elem =17  mid=3
         int midIndex = array.length / 2;
-        while (array[midIndex] < element) {
+     //   while (array[midIndex] < element) {
 
         }
-        while (array[midIndex] > element) {
+    //    while (array[midIndex] > element) {
 
         }
     }
 }
+*/

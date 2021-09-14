@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="11-09-21sh4">
+      <change afterPath="$PROJECT_DIR$/src/arr/multidim/p16n/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arr/sort/p5n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/sort/p5n/Main.java" afterDir="false" />
     </list>
@@ -57,26 +58,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="arr.multidim.p16n" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr.sort.p3.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arr.sort.p3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.decompos.p3.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.decompos.p3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +104,50 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.multidim.p16n.Main" />
+      <option name="MAIN_CLASS_NAME" value="arr.sort.p5n.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr.sort.p5n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.multidim.p16n.Main2" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arr.multidim.p16n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.onedim.p6.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr.onedim.p6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.onedim.p7.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr.onedim.p7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,34 +246,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.onedim.p6.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.onedim.p6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.onedim.p7.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.onedim.p7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
