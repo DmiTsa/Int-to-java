@@ -2,28 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="11-09-21sh4">
-      <change afterPath="$PROJECT_DIR$/src/arr/sort/p2/Main_var1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arr/sort/p2/Main_var2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arr/sort/p6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arr/sort/p7n/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arr/sort/p8/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p2n/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p12/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p13/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p15/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p15/Mail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p16n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p16n_magic_square/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p16n/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p16n_magic_square/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p2n/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p13/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p15/Mail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p16n/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim/p9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p2n/Main_var1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p2n/Main_var2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arr/sort/p5n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/sort/p5n/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +84,13 @@
       <recent name="arr.multidim.p16n" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_var2">
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.sort.p4.Main" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.sort.p6.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr.sort.p4.*" />
+          <option name="PATTERN" value="arr.sort.p6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.multidim_1taskRest.p16n_magic_square.Main2" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.sort.p8.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr.multidim_1taskRest.p16n_magic_square.*" />
+          <option name="PATTERN" value="arr.sort.p8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,6 +117,45 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arr.sort.p5n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.sort.p7n.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr.sort.p7n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.sort.p2n.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr.sort.p2n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.decompos.p2.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr.decompos.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,32 +254,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.sort.p2n.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.sort.p2n.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.decompos.p2.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.decompos.p2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main_var1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr.sort.p2.Main_var1" />
       <module name="Int-to-java" />
@@ -268,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_var2" />
-        <item itemvalue="Application.Main_var1" />
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main_var2" />
       </list>
     </recent_temporary>
   </component>

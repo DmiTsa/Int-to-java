@@ -1,9 +1,8 @@
 package arr.sort.p5n;
 
 import java.util.Arrays;
-
 /*
-5. Сортировка вставками. Дана последовательность чисел . Требуется переставить числа в порядке
+5. Сортировка вставками. Дана последовательность чисел. Требуется переставить числа в порядке
 возрастания. Делается это следующим образом. Пусть - упорядоченная последовательность, т. е.
 a1  a2  an
 . Берется следующее число
@@ -13,7 +12,6 @@ ai+1
 не будут перебраны. Примечание. Место помещения очередного элемента в отсортированную часть производить
 с помощью двоичного поиска. Двоичный поиск оформить в виде отдельной функции.
  */
-/*
 public class Main {
     public static void main(String[] args) {
         int[] array = {5, 8, 1, -8, 78, 52, 17, 16, 7, 1};
@@ -22,7 +20,7 @@ public class Main {
         for (int i = 1; i < array.length; i++) {
             System.arraycopy(array, 0, sortedArray, 0, i);
 
-            int pos = binSort(sortedArray, array[i]);
+            //int pos = binSort(sortedArray, array[i]);
         }
     }
 
@@ -30,10 +28,11 @@ public class Main {
         int midIndex = array.length / 2;
      //   while (array[midIndex] < element) {
 
-        }
+        //}
     //    while (array[midIndex] > element) {
 
-        }
+       //}
+        return array[0];
     }
 }
-*/
+
