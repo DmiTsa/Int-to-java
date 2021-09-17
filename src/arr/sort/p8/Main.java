@@ -7,7 +7,7 @@ import java.util.Arrays;
 знаменателю и упорядочивает их в порядке возрастания.
  */
 public class Main {
-    private static int multipliersCount = 100;
+    private static final int MULTIPLIERS_COUNT = 100;
 
     public static void main(String[] args) {
         int[][] fraction = {
@@ -19,8 +19,8 @@ public class Main {
             nokMax *= fraction[1][i];
         }
         //метод нахождения НОК
-
-        System.out.println(Arrays.toString(getMultipliers(400)));
+        System.out.println(Arrays.toString(getMultipliers(540)));
+        //System.out.println(Arrays.toString(toUnique(getMultipliers(540))));
     }
 
     public static int[] getDivisors(int x) {
@@ -44,7 +44,7 @@ public class Main {
 
     public static int[] getMultipliers(int x) {
         int[] divisors = getDivisors(x);
-        int[] multipliers = new int[multipliersCount];
+        int[] multipliers = new int[MULTIPLIERS_COUNT];
         int cap = 0;
         for (int i = 0; i < divisors.length; i++) {
             while (x % divisors[i] == 0) {
@@ -57,16 +57,31 @@ public class Main {
         return multipliers;
     }
 
-    //метод нахождения уникальных из матрицы
+    public static int[] toUnique(int[] array) {
+        Arrays.sort(array);
+        int[] tmpArray = new int[MULTIPLIERS_COUNT];
+        tmpArray[0] = array[0];
+        int cap = 1;
+        for (int i = 1; i < array.length; i++) {
+            if (array[i] != array[i - 1]) {
+                tmpArray[cap] = array[i];
+                cap++;
+            }
+        }
+        tmpArray = Arrays.copyOf(tmpArray, cap);
+        return tmpArray;
+    }
 
-
-    public static int getNok(int[] array) {//массив знаменателей
-        int[][] multipliers = new int[multipliersCount][multipliersCount];
-        for (int i=0;i<array.length;i++){
-            multipliers[i] = getMultipliers(array[i]);
-
+    public static int[] getNok(int[] array) {//массив знаменателей
+        Arrays.sort(array);
+        int max = array[array.length - 1];
+        int[] maxArray = getMultipliers(max);
+        int[] tmp = new int[MULTIPLIERS_COUNT];
+        for (int i = 0; i < array.length - 1; i++) {
+            tmp = getMultipliers(array[i]);
 
         }
-        return 1;
+
+        return;
     }
 }
