@@ -1,50 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="18-09-20h5">
-      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p1/Task1.java" afterDir="false" />
+    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="Part 1 DONE!">
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p19/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/c_cycles/Task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/decompos/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/decompos/p1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/decompos/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/decompos/p2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/decompos/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/decompos/p3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/decompos/p4n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/decompos/p4n/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p12/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p13/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p15/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p15/Mail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p16n_magic_square/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p16n_magic_square/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p16n_magic_square/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p16n_magic_square/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/multidim_1taskRest/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p5/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/onedim/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p2/Main_var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p2/Main_var1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p2/Main_var2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p2/Main_var2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p5n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p5n/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p7n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p7n/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/sort/p8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/decompos/p1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/decompos/p2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/decompos/p3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/decompos/p4n/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p13/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p15/Mail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p16n_magic_square/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/multidim_1taskRest/p9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/onedim/p9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p2/Main_var1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p2/Main_var2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p5n/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p7n/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/arr/sort/p8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p1/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p10/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p4/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p5/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p6/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p7/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p8/Task8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p9/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p9/Task9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +118,7 @@
       <recent name="arr.multidim.p16n" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task8">
+  <component name="RunManager" selected="Application.Task9">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr.sort.p1.Main" />
       <module name="Int-to-java" />
@@ -211,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task1" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.a_oneDimentionArrays.Task10" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
+          <option name="PATTERN" value="b_algoritmization.a_oneDimentionArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,25 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task2" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.a_oneDimentionArrays.Task6" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task5" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
+          <option name="PATTERN" value="b_algoritmization.a_oneDimentionArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +250,11 @@
       </method>
     </configuration>
     <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task7" />
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.a_oneDimentionArrays.Task7" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
+          <option name="PATTERN" value="b_algoritmization.a_oneDimentionArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +263,24 @@
       </method>
     </configuration>
     <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task8" />
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.a_oneDimentionArrays.Task8" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
+          <option name="PATTERN" value="b_algoritmization.a_oneDimentionArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.a_oneDimentionArrays.p9.Task9" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_algoritmization.a_oneDimentionArrays.p9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task9" />
+        <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task8" />
         <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task5 (1)" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631976404839</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Part 1 DONE!">
+      <created>1631984480051</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631984480051</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +387,8 @@
     <MESSAGE value="18-09-20h2" />
     <MESSAGE value="18-09-20h4" />
     <MESSAGE value="18-09-20h5" />
-    <option name="LAST_COMMIT_MESSAGE" value="18-09-20h5" />
+    <MESSAGE value="Part 1 DONE!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 1 DONE!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -381,6 +401,11 @@
           <url>file://$PROJECT_DIR$/src/b_algoritmization/sort/p2/Main_var1.java</url>
           <line>13</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/b_algoritmization/a_oneDimentionArrays/p9/Task9.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
