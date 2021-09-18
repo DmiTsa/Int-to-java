@@ -82,6 +82,6 @@ public class Main {
 
         }
 
-        return;
+        return new int[]{1};
     }
 }

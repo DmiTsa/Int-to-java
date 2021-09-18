@@ -3,7 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="11-09-21sh4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arr/sort/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arr/sort/p8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/a_linearProgramms/p1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p17/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p19/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +81,7 @@
       <recent name="arr.multidim.p16n" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr.sort.p6.Main" />
       <module name="Int-to-java" />
@@ -91,11 +109,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.sort.p5n.Main" />
+      <option name="MAIN_CLASS_NAME" value="arr.decompos.p4n.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr.sort.p5n.*" />
+          <option name="PATTERN" value="arr.decompos.p4n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr.sort.p1.Main" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr.sort.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,45 +238,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.decompos.p4n.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.decompos.p4n.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.sort.p1.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.sort.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_var1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.sort.p2.Main_var1" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.sort.p2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main_var2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr.sort.p2.Main_var2" />
       <module name="Int-to-java" />
@@ -259,13 +251,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.p1.Task1" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.Task2" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main_var2" />
       </list>
     </recent_temporary>
   </component>
