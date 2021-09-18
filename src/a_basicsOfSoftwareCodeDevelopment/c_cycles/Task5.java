@@ -1,12 +1,12 @@
-package a_basicsOfSoftwareCodeDevelopment.p16;
+package a_basicsOfSoftwareCodeDevelopment.c_cycles;
 
 import java.util.Scanner;
 
-/*
+public class Task5 {
+    /*
  Даны числовой ряд и некоторое число е. Найти сумму тех членов ряда, модуль которых больше или равен
-заданному е. Общий член ряда имеет вид
+заданному е. Общий член ряда имеет вид An=1/2(n) + 1/3(n)
  */
-public class Main {
     public static void main(String[] args) {
         double sum = 0, nn;
         Scanner sc = new Scanner(System.in);

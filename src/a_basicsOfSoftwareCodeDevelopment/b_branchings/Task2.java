@@ -1,9 +1,7 @@
-package a_basicsOfSoftwareCodeDevelopment.p8;
+package a_basicsOfSoftwareCodeDevelopment.b_branchings;
 
-/*
-Найти max{min(a, b), min(c, d)}
- */
-public class Main {
+public class Task2 {
+    // Найти max{min(a, b), min(c, d)}
     public static void main(String[] args) {
         int min1, min2, max;
         int a = 2, b = 4, c = -2, d = 14;

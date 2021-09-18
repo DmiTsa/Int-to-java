@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="18-09-20h2">
-      <change afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/a_linearProgramms/Task5.java" afterDir="false" />
+    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="18-09-20h4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/a_linearProgramms/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/a_linearProgramms/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p6/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p13/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p15/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p16/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p17/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p18/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p19/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p6/Task6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/a_basicsOfSoftwareCodeDevelopment/p9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/b_branchings/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/b_branchings/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/c_cycles/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/c_cycles/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/c_cycles/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/c_cycles/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/c_cycles/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/c_cycles/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p18/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p19/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/b_branchings/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basicsOfSoftwareCodeDevelopment/b_branchings/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,18 +84,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="a_basicsOfSoftwareCodeDevelopment.b_branchings" />
       <recent name="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms" />
       <recent name="arr.sort.p2n" />
       <recent name="arr.multidim.p16n" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task6">
+  <component name="RunManager" selected="Application.Task7">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.decompos.p4n.Main" />
+      <option name="MAIN_CLASS_NAME" value="arr.onedim.p7n.Main" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr.decompos.p4n.*" />
+          <option name="PATTERN" value="arr.onedim.p7n.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.onedim.p7n.Main" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task1" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr.onedim.p7n.*" />
+          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +222,11 @@
       </method>
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.Task2" />
+      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task2" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.*" />
+          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,38 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.Task3" />
+    <configuration name="Task5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task5" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.p4.Task4" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.p4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.p5.Task5" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.p5.*" />
+          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +248,24 @@
       </method>
     </configuration>
     <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.p6.Task6" />
+      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.Task6" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.p6.*" />
+          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.c_cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_basicsOfSoftwareCodeDevelopment.p18.Task7" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_basicsOfSoftwareCodeDevelopment.p18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6 (1)" />
+        <item itemvalue="Application.Task5 (1)" />
         <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631971232646</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="18-09-20h4">
+      <created>1631974558731</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631974558731</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +356,8 @@
     <MESSAGE value="11-09-21sh4" />
     <MESSAGE value="18-09-20h" />
     <MESSAGE value="18-09-20h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="18-09-20h2" />
+    <MESSAGE value="18-09-20h4" />
+    <option name="LAST_COMMIT_MESSAGE" value="18-09-20h4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

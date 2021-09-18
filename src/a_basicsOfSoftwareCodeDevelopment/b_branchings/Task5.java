@@ -1,9 +1,7 @@
-package a_basicsOfSoftwareCodeDevelopment.p11;
+package a_basicsOfSoftwareCodeDevelopment.b_branchings;
 
-/*
- Вычислить значение функции
- */
-public class Main {
+public class Task5 {
+    //Вычислить значение функции
     public static void main(String[] args) {
         double x = 2;
         if (x <= 3) {

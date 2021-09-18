@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 Даны два числа. Определить цифры, входящие в запись как первого так и второго числа
  */
-public class Main {
+public class Task8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите два числа ");

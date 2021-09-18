@@ -1,9 +1,7 @@
-package a_basicsOfSoftwareCodeDevelopment.p14;
+package a_basicsOfSoftwareCodeDevelopment.c_cycles;
 
-/*
- Найти сумму квадратов первых ста чисел.
- */
-public class Main {
+public class Task3 {
+    // Найти сумму квадратов первых ста чисел.
     public static void main(String[] args) {
         double sum=0;
         for (int i = 1; i <= 100; i++)

@@ -1,11 +1,9 @@
-package a_basicsOfSoftwareCodeDevelopment.p13;
+package a_basicsOfSoftwareCodeDevelopment.c_cycles;
 
 import java.util.Scanner;
 
-/*
- Вычислить значения функции на отрезке [а,b] c шагом h
-*/
-public class Main {
+public class Task2 {
+    // Вычислить значения функции {y=x при x>2, y=-x при x<=2} на отрезке [а, b] c шагом h
     public static void main(String[] args) {
         System.out.println("Введите диапазон - от a до b");
         Scanner sc = new Scanner(System.in);
@@ -15,13 +13,13 @@ public class Main {
         int h = sc.nextInt();
 
         for (int i = a; i <= b; i += h) {
+            int y;
             if (i > 2) {
-                int y = i;
-                System.out.print(y + " ");
+                y = i;
             } else {
-                int y = -1 * i;
-                System.out.print(y + " ");
+                y = -1 * i;
             }
+            System.out.print(y + " ");
 
         }
     }

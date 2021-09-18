@@ -1,12 +1,12 @@
-package a_basicsOfSoftwareCodeDevelopment.p18;
+package a_basicsOfSoftwareCodeDevelopment.c_cycles;
 
 import java.util.Scanner;
 
-/*
-Для каждого натурального числа в промежутке от m до n вывести все делители, кроме единицы и самого числа.
-m и n вводятся с клавиатуры.
- */
-public class Main {
+public class Task7 {
+    /*
+   Для каждого натурального числа в промежутке от m до n вывести все делители, кроме единицы и самого числа.
+   m и n вводятся с клавиатуры.
+    */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите начало промежутка: от ");

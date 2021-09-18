@@ -1,9 +1,7 @@
-package a_basicsOfSoftwareCodeDevelopment.p17;
+package a_basicsOfSoftwareCodeDevelopment.c_cycles;
 
-/*
- Вывести на экран соответствий между символами и их численными обозначениями в памяти компьютера.
- */
-public class Main {
+public class Task6 {
+    //Вывести на экран соответствий между символами и их численными обозначениями в памяти компьютера.
     public static void main(String[] args) {
 //выводим русских символов (коды UTF от 1040 - 1103)
         char n1 = 1040;

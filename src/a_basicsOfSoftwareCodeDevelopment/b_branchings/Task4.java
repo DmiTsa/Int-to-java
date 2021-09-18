@@ -1,10 +1,10 @@
-package a_basicsOfSoftwareCodeDevelopment.p10;
+package a_basicsOfSoftwareCodeDevelopment.b_branchings;
 
-/*
-Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича.
-Определить, пройдет ли кирпич через отверстие.
- */
-public class Main {
+public class Task4 {
+    /*
+   Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича.
+   Определить, пройдет ли кирпич через отверстие.
+    */
     public static void main(String[] args) {
         int A = 40, B = 151;
         int x = 20, y = 151, z = 230;
