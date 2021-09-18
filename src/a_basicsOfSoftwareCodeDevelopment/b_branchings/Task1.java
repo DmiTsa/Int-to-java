@@ -1,10 +1,10 @@
-package a_basicsOfSoftwareCodeDevelopment.p7;
+package a_basicsOfSoftwareCodeDevelopment.b_branchings;
 
-/*
-Даны два угла треугольника (в градусах). Определить, существует ли такой треугольник,
-и если да, то будет ли он прямоугольным.
- */
-public class Main {
+public class Task1 {
+    /*
+    Даны два угла треугольника (в градусах). Определить, существует ли такой треугольник,
+    и если да, то будет ли он прямоугольным.
+     */
     public static void main(String[] args) {
         int a1 = 60, a2 = 30;
         if ((a1 + a2) < 180) {
