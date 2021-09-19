@@ -1,12 +1,11 @@
-package b_algoritmization.b_multidimensionArrays.p13;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
-Отсортировать столбцы матрицы по возрастанию и убыванию значений элементов.
- */
-public class Main {
+public class Task13 {
+    //Отсортировать столбцы матрицы по возрастанию и убыванию значений элементов.
     public static void main(String[] args) {
         int n = 4; //порядок матрицы
-        int matrix[][] = {{4, 8, 6, 7},
+        int[][] matrix = {
+                {4, 8, 6, 7},
                 {7, 1, 3, 3},
                 {9, 12, 7, 2},
                 {6, 4, 5, 8}};

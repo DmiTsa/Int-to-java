@@ -1,15 +1,15 @@
-package b_algoritmization.b_multidimensionArrays.p8;
+package b_algoritmization.b_multidimensionArrays;
 
 import java.util.Scanner;
 
-/*
+public class Task8 {
+    /*
 В числовой матрице поменять местами два столбца любых столбца, т. е. все элементы одного столбца поставить
 на соответствующие им позиции другого, а его элементы второго переместить в первый. Номера столбцов вводит
 пользователь с клавиатуры.
  */
-public class Main {
     public static void main(String[] args) {
-        int matrix[][] = {{4, 8, 6, 7},
+        int[][] matrix = {{4, 8, 6, 7},
                 {7, 1, 3, 3},
                 {9, 8, 7, 2},
                 {6, 4, 5, 8}};

@@ -1,10 +1,10 @@
-package b_algoritmization.b_multidimensionArrays.p14;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
+public class Task14 {
+    /*
 Сформировать случайную матрицу m x n, состоящую из нулей и единиц, причем в каждом столбце число
 единиц равно номеру столбца.
  */
-public class Main {
     public static void main(String[] args) {
         int m = 14, n = 6;
         int[][] matrix = new int[m][n];

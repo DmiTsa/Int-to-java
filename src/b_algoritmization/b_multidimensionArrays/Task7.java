@@ -1,11 +1,10 @@
-package b_algoritmization.b_multidimensionArrays.p7;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
+public class Task7 {
+    /*
 Сформировать квадратную матрицу порядка N по правилу
-
 и подсчитать количество положительных элементов в ней.
  */
-public class Task7 {
     public static void main(String[] args) {
         int n = 6;
         double[][] matrix = new double[n][n];

@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="Part 2-1 DONE!">
-      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task2.java" afterDir="false" />
+    <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="Part 2-1 (in prog 1)">
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p12/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p13/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p15/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p15/Mail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p16n_magic_square/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p16n_magic_square/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p16n_magic_square/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p16n_magic_square/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/multidim_1taskRest/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p13/Task13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p7/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/p9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task1" />
+    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task12" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -200,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task2" />
+    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task13" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -213,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task3" />
+    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task14" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -226,8 +216,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task4" />
+    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.b_multidimensionArrays.Task15" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -242,10 +232,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task15" />
+        <item itemvalue="Application.Task14" />
+        <item itemvalue="Application.Task13" />
+        <item itemvalue="Application.Task12" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631990197139</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Part 2-1 (in prog 1)">
+      <created>1632046506200</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632046506200</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,7 +344,8 @@
     <MESSAGE value="18-09-20h5" />
     <MESSAGE value="Part 1 DONE!" />
     <MESSAGE value="Part 2-1 DONE!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 2-1 DONE!" />
+    <MESSAGE value="Part 2-1 (in prog 1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 2-1 (in prog 1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

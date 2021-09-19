@@ -1,11 +1,10 @@
-package b_algoritmization.b_multidimensionArrays.p15;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
-Найдите наибольший элемент матрицы и заменить все нечетные элементы на него.
- */
-public class Mail {
+public class Task15 {
+    //Найдите наибольший элемент матрицы и заменить все нечетные элементы на него.
     public static void main(String[] args) {
-        int matrix[][] = {{4, 8, 6, 7},
+        int[][] matrix = {
+                {4, 8, 6, 7},
                 {7, 1, 3, 3},
                 {9, 8, 7, 2},
                 {6, 4, 5, 8}};

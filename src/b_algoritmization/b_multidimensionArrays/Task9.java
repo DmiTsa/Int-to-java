@@ -1,10 +1,10 @@
-package b_algoritmization.b_multidimensionArrays.p9;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
+public class Task9 {
+    /*
 Задана матрица неотрицательных чисел. Посчитать сумму элементов в каждом столбце. Определить, какой
 столбец содержит максимальную сумму.
  */
-public class Main {
     public static void main(String[] args) {
         int[][] matrix = {{2, 7, 6,9},
                 {30, 12, 1,7},
