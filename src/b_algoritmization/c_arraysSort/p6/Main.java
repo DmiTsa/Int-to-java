@@ -1,4 +1,4 @@
-package b_algoritmization.sort.p6;
+package b_algoritmization.c_arraysSort.p6;
 
 import java.util.Arrays;
 

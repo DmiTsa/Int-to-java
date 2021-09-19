@@ -1,4 +1,4 @@
-package b_algoritmization.sort.p7n;
+package b_algoritmization.c_arraysSort.p7n;
 
 import java.util.Arrays;
 

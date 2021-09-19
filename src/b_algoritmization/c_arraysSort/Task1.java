@@ -1,4 +1,4 @@
-package b_algoritmization.sort.p1;
+package b_algoritmization.c_arraysSort;
 
 import java.util.Arrays;
 
@@ -7,7 +7,7 @@ import java.util.Arrays;
 один массив, включив второй массив между k-м и (k+1) - м элементами первого, при этом не используя
 дополнительный массив.
  */
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 3, 4, 5};
         int[] arr2 = {10, 10, 10, 10};
