@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p14;
+package b_algoritmization.b_multidimensionArrays.p14;
 
 /*
 Сформировать случайную матрицу m x n, состоящую из нулей и единиц, причем в каждом столбце число

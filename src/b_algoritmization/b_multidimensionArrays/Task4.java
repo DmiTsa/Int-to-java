@@ -1,9 +1,7 @@
-package b_algoritmization.multidim_1taskRest.p4;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
- Сформировать квадратную матрицу порядка n по заданному образцу(n - четное)
- */
-public class Main {
+public class Task4 {
+    //Сформировать квадратную матрицу порядка n по заданному образцу(n - четное)
     public static void main(String[] args) {
         int n = 6;
         int[][] matrix = new int[n][n];
@@ -26,7 +24,3 @@ public class Main {
         }
     }
 }
-
-
-//выделить четные и нечетные строки
-//в нечетных проверку на посл элемент

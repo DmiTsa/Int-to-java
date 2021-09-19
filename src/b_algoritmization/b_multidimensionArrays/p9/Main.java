@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p9;
+package b_algoritmization.b_multidimensionArrays.p9;
 
 /*
 Задана матрица неотрицательных чисел. Посчитать сумму элементов в каждом столбце. Определить, какой

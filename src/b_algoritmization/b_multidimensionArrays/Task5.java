@@ -1,9 +1,7 @@
-package b_algoritmization.multidim_1taskRest.p5;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
-Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
- */
-public class Main {
+public class Task5 {
+    //Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
     public static void main(String[] args) {
         int n = 10;
         int[][] matrix = new int[n][n];

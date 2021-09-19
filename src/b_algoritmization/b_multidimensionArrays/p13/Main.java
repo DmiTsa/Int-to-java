@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p13;
+package b_algoritmization.b_multidimensionArrays.p13;
 
 /*
 Отсортировать столбцы матрицы по возрастанию и убыванию значений элементов.

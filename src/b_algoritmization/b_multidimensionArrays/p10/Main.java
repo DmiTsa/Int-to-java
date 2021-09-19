@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p10;
+package b_algoritmization.b_multidimensionArrays.p10;
 
 /*
 Найти положительные элементы главной диагонали квадратной матрицы.

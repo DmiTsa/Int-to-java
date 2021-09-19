@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p15;
+package b_algoritmization.b_multidimensionArrays.p15;
 
 /*
 Найдите наибольший элемент матрицы и заменить все нечетные элементы на него.

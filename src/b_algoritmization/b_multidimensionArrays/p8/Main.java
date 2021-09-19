@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p8;
+package b_algoritmization.b_multidimensionArrays.p8;
 
 import java.util.Scanner;
 

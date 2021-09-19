@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p12;
+package b_algoritmization.b_multidimensionArrays.p12;
 
 import java.util.Arrays;
 

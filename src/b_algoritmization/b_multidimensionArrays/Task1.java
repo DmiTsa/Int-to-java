@@ -1,11 +1,12 @@
-package b_algoritmization.multidim_1taskRest.p1;
+package b_algoritmization.b_multidimensionArrays;
 
-/*
- Дана матрица. Вывести на экран все нечетные столбцы, у которых первый элемент больше последнего
- */
-public class Main {
+public class Task1 {
+    //Дана матрица. Вывести на экран все нечетные столбцы, у которых первый элемент больше последнего
     public static void main(String[] args) {
-        int[][] matrix = {{74, 76, 78, 70, 78}, {4, 6, 5, 14, 1}, {8, 7, 47, 14, 8}};
+        int[][] matrix = {
+                {74, 76, 78, 70, 78},
+                {4, 6, 5, 14, 1},
+                {8, 7, 47, 80, 8}};
 
         for (int[] arr : matrix) {
             for (int element : arr) {

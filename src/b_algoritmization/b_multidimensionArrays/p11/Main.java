@@ -1,4 +1,4 @@
-package b_algoritmization.multidim_1taskRest.p11;
+package b_algoritmization.b_multidimensionArrays.p11;
 
 /*
 Матрицу 10x20 заполнить случайными числами от 0 до 15. Вывести на экран саму матрицу и номера строк, в
