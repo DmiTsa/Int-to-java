@@ -1,4 +1,4 @@
-package b_algoritmization.c_arraysSort.p8;
+package b_algoritmization.c_arraysSort;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
 Даны дроби p1/q1, p2/q2, ... pn/qn, ( pi , qi - натуральные). Составить программу, которая приводит эти дроби к общему
 знаменателю и упорядочивает их в порядке возрастания.
  */
-public class Main {
+public class Task8n {
     private static final int MULTIPLIERS_COUNT = 100;
 
     public static void main(String[] args) {

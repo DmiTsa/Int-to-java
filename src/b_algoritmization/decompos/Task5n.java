@@ -1,11 +1,11 @@
 package b_algoritmization.decompos;
 
-public class Task5n {
+//public class Task5n {
     /*
 Составить программу, которая в массиве A[N] находит второе по величине число (вывести на печать число,
 которое меньше максимального элемента массива, но больше всех других элементов).
      */
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         int[] array = {4, 8, 6, 1, 5, 3, 7};  //отв 7
         System.out.println(preMaxOfArray(array));
     }
@@ -25,4 +25,4 @@ public class Task5n {
         }
         return preMax;
     }
-}
+}*/
