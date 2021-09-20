@@ -1,40 +1,33 @@
 package b_algoritmization.decompos.p4n;
 
-import java.util.Scanner;
 
-/*
+public class Main {
+    /*
 На плоскости заданы своими координатами n точек. Написать метод(методы), определяющие, между какими
 из пар точек самое большое расстояние.
 Указание: Координаты точек занести в массив.
  */
-public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Введите количество точек ");
-        int nP = sc.nextInt();
-        int[][] coord = new int[nP][2];
+        int[] coordinates = {4, 6, 7, -2, 18, 12, -9, -1};
 
-        System.out.println("задайте координаты");
-        for (int i = 0; i < nP; i++) {
-            System.out.println("Точка № " + (i + 1) + " :");
-            for (int j = 0; j < 2; j++) {
-                coord[i][j] = sc.nextInt();
+        int num1, num2;
+        double distMax = 0;
+        for (int i = 0; i < coordinates.length - 2; i += 2) {
+            for (int j = i + 2; j < coordinates.length; j += 2) {
+                double tmp = distBetweenTwoPoint(coordinates[i], coordinates[i+1], coordinates[j], coordinates[j + 1]);
+
             }
         }
-
-        int pointA = 0, pointB = 0;
-        double dist = 0;
-
-//        for (int i = 1; i <= nP; i++) {
-//            pointA = i;
-//            for (int j = 0; j < nP; j++) {
-//                pointB = j;
-//                dist = distBetweenTwoPoint(coord[i][],coord[i][],coord[][] ,coord[][] );
-//            }
-//        }
-//        System.out.println(dist);
+        System.out.println("Сверить");
+        System.out.println(distBetweenTwoPoint(4,6,7,-2));
+        System.out.println(distBetweenTwoPoint(4,6,18,12));
+        System.out.println(distBetweenTwoPoint(4,6,-9,-1));
+        System.out.println(distBetweenTwoPoint(7,-2,18,12));
+        System.out.println(distBetweenTwoPoint(7,-2,-9,-1));
+        System.out.println(distBetweenTwoPoint(18,12,-9,-1));
 
 
+        //System.out.println(distBetweenTwoPoint(4, 2, 6, -1));
     }
 
     public static double distBetweenTwoPoint(int x1, int y1, int x2, int y2) {
