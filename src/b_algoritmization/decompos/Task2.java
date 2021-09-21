@@ -1,11 +1,11 @@
-package b_algoritmization.decompos.p2;
+package b_algoritmization.decompos;
 
 import java.util.Scanner;
 
 /*
  Написать метод(методы) для нахождения наибольшего общего делителя четырех натуральных чисел.
  */
-public class Main {
+public class Task2 {
     public static void main(String[] args) {
         System.out.println("Введите 4 числа для нахождения НОД");
         Scanner sc = new Scanner((System.in));

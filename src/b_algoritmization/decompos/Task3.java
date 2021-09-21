@@ -1,4 +1,4 @@
-package b_algoritmization.decompos.p3;
+package b_algoritmization.decompos;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
 Вычислить площадь правильного шестиугольника со стороной а, используя метод вычисления площади
 треугольника
  */
-public class Main {
+public class Task3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите длину стороны");

@@ -1,4 +1,4 @@
-package b_algoritmization.decompos.p1;
+package b_algoritmization.decompos;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  Написать метод(методы) для нахождения наибольшего общего делителя и наименьшего общего кратного двух
 натуральных чисел НОК(a b) = a * b / НОД(a b)
  */
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         System.out.println("Введите 2 числа - A и B");
         Scanner sc = new Scanner(System.in);
