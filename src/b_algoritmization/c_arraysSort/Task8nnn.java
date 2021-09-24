@@ -8,10 +8,15 @@ public class Task8nnn {
     private static final int MULTIPLIERS_COUNT = 100;
 
     public static void main(String[] args) {
+
         int[][] fraction = {
                 {8, 7, 12, 63, 23},
                 {11, 8, 9, 14, 97}};
-
+        int oneMl = 1;
+        for (int elem : fraction[0]) {
+            oneMl *= elem;
+        }
+        System.out.println(oneMl);
 // общий знаменатель перемножение
         // отсортировать выбором используя frac[0]i / frac[1]i
 

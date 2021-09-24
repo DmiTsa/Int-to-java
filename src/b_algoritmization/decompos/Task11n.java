@@ -10,8 +10,9 @@ public class Task11n {
 
 
     }
-    //метод определяющий кол-во цифр
-    private static int countDigits (int x){
 
+    //метод определяющий кол-во цифр
+    private static int countDigits(int x) {
+        return 1;
     }
 }

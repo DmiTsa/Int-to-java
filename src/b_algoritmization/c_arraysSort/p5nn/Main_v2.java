@@ -14,9 +14,9 @@ public class Main_v2 {
  */
     public static void main(String[] args) {
         int[] array = {5, 7, 6, 9, 10, 52, 17, 16, 7, 1}; //0 1 2 3 pos - номер i
-       for (int i=1; i < array.length; i++){
-           System.out.println("элемент = "+ array[i]+" место "+ pointOut(array,i));
-       }
+
+           System.out.println("элемент = "+ array[2]+" место "+ pointOut(array,2));
+
     }
 
     private static int pointOut(int[] array, int i) {
