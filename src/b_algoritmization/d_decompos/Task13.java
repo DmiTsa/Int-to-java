@@ -2,19 +2,21 @@ package b_algoritmization.d_decompos;
 
 import java.util.Arrays;
 
-public class Task13n {
+public class Task13 {
     /*
     Два простых числа называются «близнецами», если они отличаются друг от друга на 2 (например, 41 и 43).
 Найти и напечатать все пары «близнецов» из отрезка [n,2n], где n - заданное натуральное число больше 2. Для
 решения задачи использовать декомпозицию.
      */
     public static void main(String[] args) {
-        int n = 6; //отрезок n...2n  =6-12
+        int n = 11; //отрезок n...2n  =6-12
 
-        //System.out.println(isPrime(7));
-        int[] arr =  getSimpleArray(13);
-        System.out.println(Arrays.toString(arr));
-
+        int[] array =  getSimpleArray(n);
+        for (int i = 0; i < array.length-1; i++) {
+                if (array[i+1]-array[i]==2){
+                    System.out.println("Пара близнецов: "+array[i]+" "+array[i+1]);
+                }
+        }
     }
 
     public static int[] getSimpleArray(int begin) {//n=6
