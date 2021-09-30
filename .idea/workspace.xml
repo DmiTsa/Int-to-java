@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="Part 2-2 (in prog)w">
-      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/a_stringHowArray/Task1n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice (tasks).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Practice (tasks).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Questions.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task12n.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task12n.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task14n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task15n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task16n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task17n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task12n.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task14n.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task15n.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task16n.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task17n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +68,7 @@
       <recent name="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task12n">
+  <component name="RunManager" selected="Application.Task12">
     <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task12" />
       <module name="Int-to-java" />
@@ -149,11 +134,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Task12n" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
