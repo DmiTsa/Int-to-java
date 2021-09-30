@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="Part 2-2 (in prog)w">
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task13n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task13n.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task14n.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task14n.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice (tasks).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Practice (tasks).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Questions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task12n.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task12n.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task14n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task15n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task16n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/b_algoritmization/d_decompos/Task17n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task12n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task14n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task15n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task16n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/d_decompos/Task17n.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,35 +83,9 @@
       <recent name="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task13n">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.onedim.p7.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.onedim.p7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr.onedim.p10.Main" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr.onedim.p10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task10" />
+  <component name="RunManager" selected="Application.Task12n">
+    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task12" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.decompos.Task10n" />
+    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task14" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task11" />
+    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task15" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task12n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task12n" />
+    <configuration name="Task16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task16" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task13" />
+    <configuration name="Task17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task17" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -162,9 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task13n" />
         <item itemvalue="Application.Task12n" />
-        <item itemvalue="Application.Task10n" />
       </list>
     </recent_temporary>
   </component>
