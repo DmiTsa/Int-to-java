@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="Part 2-2 (in prog)w">
-      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/a_stringHowArray/Task1n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/a_stringHowArray/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/a_stringHowArray/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/a_stringHowArray/Task3n.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/a_stringHowArray/Task1n.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,39 +69,13 @@
       <recent name="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task12">
-    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task12" />
+  <component name="RunManager" selected="Application.Task3n">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.a_stringHowArray.Task1" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b_algoritmization.d_decompos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task14" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b_algoritmization.d_decompos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task15" />
-      <module name="Int-to-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b_algoritmization.d_decompos.*" />
+          <option name="PATTERN" value="c_stringAndBasicsOfTextProcessing.a_stringHowArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,6 +109,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.a_stringHowArray.Task2" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c_stringAndBasicsOfTextProcessing.a_stringHowArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.a_stringHowArray.Task3n" />
+      <module name="Int-to-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c_stringAndBasicsOfTextProcessing.a_stringHowArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task3n" />
+        <item itemvalue="Application.Task2n" />
+        <item itemvalue="Application.Task1n" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
