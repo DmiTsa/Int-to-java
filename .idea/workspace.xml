@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="30-09-21h">
-      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task10n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task2n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task2n.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
       <recent name="a_basicsOfSoftwareCodeDevelopment.a_linearProgramms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task7n">
+  <component name="RunManager" selected="Application.Task8n">
     <configuration name="Task17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="b_algoritmization.d_decompos.Task17" />
       <module name="Int-to-java" />
@@ -83,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task4" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task2" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task5" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task3" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task6" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task8" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task7" />
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_stringAndBasicsOfTextProcessing.b_stringsHowStringbuilder.Task9" />
       <module name="Int-to-java" />
       <extension name="coverage">
         <pattern>
@@ -137,10 +139,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task7n" />
-        <item itemvalue="Application.Task6n" />
-        <item itemvalue="Application.Task5n" />
-        <item itemvalue="Application.Task4n" />
+        <item itemvalue="Application.Task8n" />
+        <item itemvalue="Application.Task9n" />
+        <item itemvalue="Application.Task3n" />
+        <item itemvalue="Application.Task2n" />
       </list>
     </recent_temporary>
   </component>
