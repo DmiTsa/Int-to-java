@@ -17,6 +17,11 @@ public class Train {
     public Train() {
     }
 
+    public void showInfoTrain () {
+        System.out.println("Поезд № " + trainNumber + " отправляется в " + destination
+                + ". Время отправления: "+ departureTime);
+    }
+
     public String getDestination() {
         return destination;
     }

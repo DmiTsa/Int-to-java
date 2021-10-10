@@ -1,17 +1,18 @@
 package d_programmingWithClasses.a_simpleClassesAndObjects.Task4n;
 
 import java.time.LocalTime;
+import java.util.Scanner;
 
-public class Main {
+public class Trainboard {
     //Создайте класс Train, содержащий поля: название пункта назначения, номер поезда, время отправления.
     //Создайте данные в массив из пяти элементов типа Train, добавьте возможность сортировки элементов массива по
     //номерам поездов. Добавьте возможность вывода информации о поезде, номер которого введен пользователем.
     //Добавьте возможность сортировки массив по пункту назначения, причем поезда с одинаковыми пунктами
     //назначения должны быть упорядочены по времени отправления.
 
-    // TODO добавьте возможность сортировки элементов массива по номерам поездов.
-    // TODO Добавьте возможность вывода информации о поезде, номер которого введен пользователем.
-    // TODO Добавьте возможность сортировки массив по пункту назначения, причем поезда с одинаковыми пунктами назначения должны быть упорядочены по времени отправления.
+
+    // TODO Добавьте возможность сортировки массив по пункту назначения, причем поезда с одинаковыми пунктами назначения должны
+    //  быть упорядочены по времени отправления.
     public static void main(String[] args) {
 
         Train[] allTrains = new Train[5];
@@ -20,6 +21,12 @@ public class Main {
         allTrains[2] = new Train("Полоцк", 3078, LocalTime.of(16, 0));
         allTrains[3] = new Train("Минск", 5500, LocalTime.of(15, 0));
         allTrains[4] = new Train("Минск", 4008, LocalTime.of(14, 55));
+
+        sortedByTrainNumber(allTrains);
+        //searchTrainByNumber(allTrains);
+
+        showAll(allTrains);
+
 
     }
 
@@ -36,6 +43,28 @@ public class Main {
                     sorted = false;
                 }
             }
+        }
+    }
+
+    public static void searchTrainByNumber(Train[] a) {
+        System.out.println("Ведите номер для поиска");
+        Scanner sc = new Scanner(System.in);
+        int number = sc.nextInt();
+        boolean noInfo = true;
+        for (Train elem : a) {
+            if (elem.getTrainNumber() == number) {
+                elem.showInfoTrain();
+                noInfo = false;
+            }
+        }
+        if (noInfo) {
+            System.out.println("Информация о поезде не найдена");
+        }
+    }
+
+    public static void showAll(Train[] a) {
+        for (Train elem : a) {
+            elem.showInfoTrain();
         }
     }
 }
