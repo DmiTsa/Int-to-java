@@ -1,4 +1,4 @@
-package b_algoritmization.b_multidimensionArrays;
+package b_algoritmization.b_multidimensionArrays_n;
 
 public class Task15 {
     //Найдите наибольший элемент матрицы и заменить все нечетные элементы на него.

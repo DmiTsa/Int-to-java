@@ -1,4 +1,4 @@
-package b_algoritmization.b_multidimensionArrays;
+package b_algoritmization.b_multidimensionArrays_n;
 
 import java.util.Scanner;
 

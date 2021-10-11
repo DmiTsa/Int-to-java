@@ -1,4 +1,4 @@
-package b_algoritmization.b_multidimensionArrays;
+package b_algoritmization.b_multidimensionArrays_n;
 
 public class Task3 {
     //Дана матрица. Вывести k-ю строку и p-й столбец матрицы.

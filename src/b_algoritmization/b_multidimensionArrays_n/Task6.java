@@ -1,4 +1,4 @@
-package b_algoritmization.b_multidimensionArrays;
+package b_algoritmization.b_multidimensionArrays_n;
 
 public class Task6 {
     // Сформировать квадратную матрицу порядка n по заданному образцу(n - четное)

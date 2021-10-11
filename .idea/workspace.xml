@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7fb07a-b5a3-428b-a2d7-d216d8ccb032" name="Changes" comment="30-09-21h">
-      <change afterPath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task5/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task5/TestCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task6/TestTimeMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task6/TimeMark.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/c_stringAndBasicsOfTextProcessing/b_stringsHowStringbuilder/Task7n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/d_programmingWithClasses/a_simpleClassesAndObjects/Task3n/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Int-to-java/d_programmingWithClasses/a_simpleClassesAndObjects/Task3n/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task4n/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task4n/Trainboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task4n/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d_programmingWithClasses/a_simpleClassesAndObjects/Task4n/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task16n.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_algoritmization/b_multidimensionArrays_n/Task9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

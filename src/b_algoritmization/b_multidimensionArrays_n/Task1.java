@@ -1,4 +1,4 @@
-package b_algoritmization.b_multidimensionArrays;
+package b_algoritmization.b_multidimensionArrays_n;
 
 public class Task1 {
     //Дана матрица. Вывести на экран все нечетные столбцы, у которых первый элемент больше последнего

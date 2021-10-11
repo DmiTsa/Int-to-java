@@ -1,4 +1,4 @@
-package b_algoritmization.b_multidimensionArrays;
+package b_algoritmization.b_multidimensionArrays_n;
 
 public class Task13 {
     //Отсортировать столбцы матрицы по возрастанию и убыванию значений элементов.
