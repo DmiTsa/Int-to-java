@@ -1,17 +1,28 @@
 package module1.cycles;
 
 import java.math.BigInteger;
-//Составить программу нахождения произведения квадратов первых двухсот чисел
+
+//РЎРѕСЃС‚Р°РІРёС‚СЊ РїСЂРѕРіСЂР°РјРјСѓ РЅР°С…РѕР¶РґРµРЅРёСЏ РїСЂРѕРёР·РІРµРґРµРЅРёСЏ РєРІР°РґСЂР°С‚РѕРІ РїРµСЂРІС‹С… РґРІСѓС…СЃРѕС‚ С‡РёСЃРµР».
 public class Task4 {
 
 	public static void main(String[] args) {
-		BigInteger rezult = new BigInteger("1");
-		
-		for (int i = 1; i <= 100; i++) {
-			//rezult = rezult +1;
-			rezult = rezult.multiply(BigInteger.valueOf(i*i));
+		final int MAXNUMBER = 200;
+		long rezult;
+		int count;
+
+		rezult = 1;
+		count = 1;
+
+		while (count <= MAXNUMBER) {
+			rezult *= count * count;
+			count++;
+			
+			if (rezult < 0) {
+				System.out.println("РћС€РёР±РєР°! РџСЂРµРІС‹С€РµРЅРёРµ РјР°РєСЃРёРјР°Р»СЊРЅРѕРіРѕ Р·РЅР°С‡РµРЅРёСЏ!");
+				count = MAXNUMBER + 1;
+				rezult = 0;
+			}
 		}
 		System.out.println(rezult);
 	}
-
 }

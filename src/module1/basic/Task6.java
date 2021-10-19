@@ -2,22 +2,38 @@ package module1.basic;
 
 import java.util.Scanner;
 
-//Для данной области составить линейную программу, которая печатает true, если точка 
-//с координатами (х, у) принадлежит закрашенной области, и false—в противном случае
+//Р”Р»СЏ РґР°РЅРЅРѕР№ РѕР±Р»Р°СЃС‚Рё СЃРѕСЃС‚Р°РІРёС‚СЊ Р»РёРЅРµР№РЅСѓСЋ РїСЂРѕРіСЂР°РјРјСѓ, РєРѕС‚РѕСЂР°СЏ РїРµС‡Р°С‚Р°РµС‚ true, РµСЃР»Рё С‚РѕС‡РєР° СЃ РєРѕРѕСЂРґРёРЅР°С‚Р°РјРё (С…, Сѓ) 
+//РїСЂРёРЅР°РґР»РµР¶РёС‚ Р·Р°РєСЂР°С€РµРЅРЅРѕР№ РѕР±Р»Р°СЃС‚Рё, Рё false вЂ” РІ РїСЂРѕС‚РёРІРЅРѕРј СЃР»СѓС‡Р°Рµ:
 public class Task6 {
 	public static void main(String[] args) {
-		System.out.println("Введите координаты");
-		Scanner scanner = new Scanner (System.in);
-		int x = scanner.nextInt();
-		int y = scanner.nextInt();
-		scanner.close();
+		int x;
+		int y;
+		boolean firstArea;
+		boolean secondArea;
 		
-		boolean firstArea = false;
-		boolean secondArea = false;
-		
+		System.out.println("Р’РІРµРґРёС‚Рµ РєРѕРѕСЂРґРёРЅР°С‚С‹");
+		x = getIntFromConsole();
+		y = getIntFromConsole();
+
 		firstArea = ((x <= 2 && x >= -2) && (y <= 4 && y >= 0));
 		secondArea = ((x <= 4 && x >= -4) & (y <= 0 && y >= -3));
-		
+
 		System.out.println(firstArea || secondArea);
+	}
+
+	private static int getIntFromConsole() {
+		int value;
+
+		System.out.print(">");
+		@SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in);
+		while (!scanner.hasNextInt()) {
+			scanner.next();
+			System.out.print(">");
+		}
+
+		value = scanner.nextInt();
+
+		return value;
 	}
 }

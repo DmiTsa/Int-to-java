@@ -1,13 +1,14 @@
 package module1.cycles;
 
-//// Найти сумму квадратов первых ста чисел
+//РќР°Р№С‚Рё СЃСѓРјРјСѓ РєРІР°РґСЂР°С‚РѕРІ РїРµСЂРІС‹С… СЃС‚Р° С‡РёСЃРµР».
 public class Task3 {
 
 	public static void main(String[] args) {
 		int sum = 0;
+		
 		for (int i = 1; i <= 100; i++) {
-			sum += i;
+			sum += i*i;
 		}
-		System.out.println(sum);
+		System.out.println("РЎСѓРјРјР° РєРІР°РґСЂР°С‚РѕРІ С‡РёСЃРµР» РѕС‚ 1 РґРѕ 100 СЂР°РІРЅР°: " + sum);
 	}
 }

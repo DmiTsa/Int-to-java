@@ -1,20 +1,38 @@
 package module1.branching;
-//Вычислить значение функции
-import java.util.Scanner; 
+
+// Р’С‹С‡РёСЃР»РёС‚СЊ Р·РЅР°С‡РµРЅРёРµ С„СѓРЅРєС†РёРё
+import java.util.Scanner;
+
 public class Task5 {
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-		System.out.println("Введите x");
-		double x = scanner.nextDouble();
-		scanner.close();
-		
+		double value;
 		double rezult;
-		if (x <= 3) {
-			rezult = Math.pow(x, 2) - 3 * x + 9;
+		
+		System.out.println("Р’РІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ С…");
+		value = getDoubleFromConsole();
+		
+		if (value <= 3) {
+			rezult = Math.pow(value, 2) - 3 * value + 9;
 		} else {
-			rezult = 1 / (Math.pow(x, 3) + 6);
+			rezult = 1 / (Math.pow(value, 3) + 6);
 		}
-		System.out.println("Результат: " + rezult);
+		System.out.println("Р РµР·СѓР»СЊС‚Р°С‚: " + rezult);
+	}
+	private static double getDoubleFromConsole() {
+		double value;
+
+		System.out.print(">");
+		@SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in);
+		while (!scanner.hasNextDouble()) {
+			scanner.next();
+			System.out.println("РќРµРІРµСЂРЅС‹Р№ РІРІРѕРґ! РџРѕРІС‚РѕСЂРёС‚Рµ");
+			System.out.print(">");
+		}
+
+		value = scanner.nextDouble();
+
+		return value;
 	}
 }

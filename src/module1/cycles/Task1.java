@@ -2,19 +2,38 @@ package module1.cycles;
 
 import java.util.Scanner;
 
-//Напишите программу, где пользователь вводит любое целое положительное число. А программа
-//суммирует все числа от 1 до введенного пользователем числа.
+//РќР°РїРёС€РёС‚Рµ РїСЂРѕРіСЂР°РјРјСѓ, РіРґРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РІРІРѕРґРёС‚ Р»СЋР±РѕРµ С†РµР»РѕРµ РїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРµ С‡РёСЃР»Рѕ. Рђ РїСЂРѕРіСЂР°РјРјР° СЃСѓРјРјРёСЂСѓРµС‚ 
+//РІСЃРµ С‡РёСЃР»Р° РѕС‚ 1 РґРѕ РІРІРµРґРµРЅРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј С‡РёСЃР»Р°.
 public class Task1 {
-	public static void main (String[] arg) {
-		Scanner scanner = new Scanner(System.in);
-		System.out.println("Введите целое положительное число");
-		int x = scanner.nextInt();
-		scanner.close();
+	public static void main(String[] arg) {
+		int x;
+		int sum;
 		
-		int sum = 0;
-		for (int i =1; i <= x; i++) {
+		do {
+		System.out.println("Р’РІРµРґРёС‚Рµ С†РµР»РѕРµ РїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРµ С‡РёСЃР»Рѕ");
+		x = getIntFromConsole();
+		} while (x <= 0);
+
+		sum = 0;
+		for (int i = 1; i <= x; i++) {
 			sum += i;
 		}
-		System.out.println("Результат " + sum);
+		System.out.println("РЎСѓРјРјР° С‡РёСЃРµР» РѕС‚ 1 РґРѕ "+ x + " СЂР°РІРЅР° " + sum);
+	}
+	private static int getIntFromConsole() {
+		int value;
+
+		System.out.print(">");
+		@SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in);
+		while (!scanner.hasNextInt()) {
+			scanner.next();
+			System.out.println("РќРµРІРµСЂРЅС‹Р№ РІРІРѕРґ! РџРѕРІС‚РѕСЂРёС‚Рµ");
+			System.out.print(">");
+		}
+
+		value = scanner.nextInt();
+
+		return value;
 	}
 }

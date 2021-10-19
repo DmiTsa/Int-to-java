@@ -1,15 +1,16 @@
 package module1.basic;
 
-//Найдите  значение функции: z= ( (a–3 ) * b/ 2) + c.
+// РќР°Р№РґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ С„СѓРЅРєС†РёРё: z= ( (a-3 ) * b/ 2) + c.
 
 public class Task1 {
 
 	public static void main(String[] args) {
-int a = 5;
-int b = 8;
-int c = 20;
+		double a = 4;
+		double b = 7;
+		double c = 20;
+		double z;
 
-int z = ( (a-3) * b / 2) + c;
-System.out.print(z);
+		z = ((a - 3) * b / 2) + c;
+		System.out.print("Р—РЅР°С‡РµРЅРёРµ С„СѓРЅРєС†РёРё: " + z);
 	}
 }

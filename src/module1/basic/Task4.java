@@ -1,23 +1,40 @@
 package module1.basic;
 
-//Äàíî äåéñòâèòåëüíîå ÷èñëî Râèäà nnn.ddd(òðè öèôðîâûõ ðàçðÿäà â äðîáíîé è öåëîé ÷àñòÿõ).
-//Ïîìåíÿòü ìåñòàìè äðîáíóþ è öåëóþ ÷àñòè ÷èñëà è âûâåñòè ïîëó÷åííîå çíà÷åíèå ÷èñëà.
+//Ð”Ð°Ð½Ð¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ R Ð²Ð¸Ð´Ð° nnn.ddd (Ñ‚Ñ€Ð¸ Ñ†Ð¸Ñ„Ñ€Ð¾Ð²Ñ‹Ñ… Ñ€Ð°Ð·Ñ€ÑÐ´Ð° Ð² Ð´Ñ€Ð¾Ð±Ð½Ð¾Ð¹ Ð¸ Ñ†ÐµÐ»Ð¾Ð¹ Ñ‡Ð°ÑÑ‚ÑÑ…). ÐŸÐ¾Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð¼ÐµÑÑ‚Ð°Ð¼Ð¸ 
+//Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸ Ñ†ÐµÐ»ÑƒÑŽ Ñ‡Ð°ÑÑ‚Ð¸ Ñ‡Ð¸ÑÐ»Ð° Ð¸ Ð²Ñ‹Ð²ÐµÑÑ‚Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ñ‡Ð¸ÑÐ»Ð°.
 import java.util.Scanner;
+
 public class Task4 {
 
 	public static void main(String[] args) {
-		System.out.println("Ââåäèòå ÷èñëî");
-		Scanner scanner = new Scanner (System.in);
-		double value = scanner.nextDouble();
-		scanner.close();
-		
 		int integerPart;
 		double rezultNumber;
-		
-		integerPart = (int) value;//123
-		rezultNumber = (int) ( ( value - integerPart ) * 1000 );
+		double value;
+
+		System.out.println("Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾ Ð²Ð¸Ð´Ð° Ñ…Ñ…Ñ….Ñ…Ñ…Ñ…");
+		value = getDoubleFromConsole();
+
+		integerPart = (int) value;
+		rezultNumber = (int) Math.round( ((value - integerPart) * 1000) );
 		rezultNumber += integerPart / 1000d;
-		System.out.println ("Ðåçóëüòàò = " + rezultNumber);
+		System.out.println("Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ = " + rezultNumber);
+	}
+
+	private static double getDoubleFromConsole() {
+		double value;
+
+		System.out.print(">");
+		@SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in);
+		while (!scanner.hasNextDouble()) {
+			scanner.next();
+			System.out.print(">");
+		}
+
+		value = scanner.nextDouble();
+
+		return value;
 	}
 
 }
+
