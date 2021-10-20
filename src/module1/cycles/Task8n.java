@@ -6,52 +6,52 @@ import java.util.Scanner;
 public class Task8n {
 
 	public static void main(String[] args) {
-		double numberOne;
-		double numberTwo;
-		String convertString1;
-		String convertString2;
-		
-        System.out.println("Введите два числа");
-        numberOne = getDoubleFromConsole();
-        numberTwo = getDoubleFromConsole();
-        
-        convertString1 = Double.toString(numberOne);
-        convertString2 = Double.toString(numberTwo);
-        
-        System.out.println("Первое число " + convertString1);
-        System.out.println("Второе число " + convertString2);
-        System.out.println("Общие цифры");
+		int numberOne;
+		int numberTwo;
 
-        for (int i = 0; i < convertString1.length(); i++) {
-        	
-            for (int j = 0; j < convertString2.length(); j++) {
-            
-                if (convertString1.charAt(i) == convertString2.charAt(j)) {
-                    System.out.print(convertString1.charAt(i) + "  ");
-                    break;
-                }
-                
-            }
-        }
-    }
-	private static String uniqueDigit (String input) {
-		
-		return "";
+		System.out.println("Введите два целых числа");
+		numberOne = Math.abs(getIntFromConsole());
+		numberTwo = Math.abs(getIntFromConsole());
+
+		int currentDigitOne;
+		int currentDigitTwo;
+		int numberTwoCopy;
+
+		numberTwoCopy = numberTwo;
+
+		System.out.println("Общие цифры для обоих чисел:");
+		do {
+			currentDigitOne = numberOne % 10;
+			numberOne /= 10;
+
+			do {
+				currentDigitTwo = numberTwo % 10;
+				numberTwo /= 10;
+
+				if (currentDigitOne == currentDigitTwo) {
+					System.out.print(currentDigitOne + " ");
+				}
+
+			} while (numberTwo != 0);
+
+			numberTwo = numberTwoCopy;
+
+		} while (numberOne != 0);
 	}
-	
-	private static double getDoubleFromConsole() {
-		double value;
+
+	private static int getIntFromConsole() {
+		int value;
 
 		System.out.print(">");
 		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
-		while (!scanner.hasNextDouble()) {
+		while (!scanner.hasNextInt()) {
 			scanner.next();
 			System.out.println("Неверный ввод! Повторите");
 			System.out.print(">");
 		}
 
-		value = scanner.nextDouble();
+		value = scanner.nextInt();
 
 		return value;
 	}
